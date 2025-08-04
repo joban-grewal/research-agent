@@ -1,0 +1,17 @@
+langchain==0.1.0
+langchain-ibm==0.1.0
+pypdf==4.0.1
+faiss-cpu==1.7.4
+flask==3.0.0
+flask-cors==4.0.0
+requests==2.31.0
+python-dotenv==1.0.0
+cloudant==2.15.0
+ibm-cos-sdk==2.13.4
+crossref-commons==0.0.7
+arxiv==1.4.8
+numpy==1.24.3
+pandas==2.0.3
+gunicorn==21.2.0
+pytest==7.4.0
+python-multipart==0.0.6
